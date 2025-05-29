@@ -56,7 +56,7 @@ nav li {
 }
 .titreetudes {
     text-align: center;
-    color: wheat;
+    color: white;
 }
 .etude h1 {
     text-align: center;
@@ -68,7 +68,8 @@ nav li {
 .ecole {
     width: 70%;
     height: 20%;
-    background-color: white;
+    color: white;
+    background-color: #002128;
     align-items: center;
 }
 .ecole img {
@@ -82,7 +83,7 @@ nav li {
 }
 .titreexperiences {
     text-align: center;
-    color: wheat;
+    color: white;
 }
 .experiences h1 {
     text-align: center;
@@ -95,7 +96,8 @@ nav li {
 .exp {
     width: 70%;
     height: 20%;
-    background-color: white;
+    color: white;
+    background-color: #002128;
     align-items: center;
 }
 .exp img {
