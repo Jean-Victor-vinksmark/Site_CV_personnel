@@ -10,18 +10,21 @@ Créer un site vitrine type CV pour :
     Permettre aux recruteurs de me contacter facilement
 
 🛠️ Tech stack
-    HTML5 – pour la structure du contenu
-    CSS3 – pour le style, les images de fond, la mise en page responsive
-    Zéro JS, zéro framework, full vanilla web
+
+HTML5 – pour la structure du contenu
+CSS3 – pour le style, les images de fond, la mise en page responsive
+Zéro JS, zéro framework, full vanilla web
 
 🖼️ Aperçu des sections
-    Accueil – Message de bienvenue + bannière
-    À propos de moi – Petite présentation perso + image illustrée
-    Études – Mon parcours scolaire avec logos d'établissements
-    Expériences – Mes stages passés, présentés dans des blocs stylés
-    Contact – Mail, numéro de téléphone, tout ce qu’il faut pour me joindre
+
+Accueil – Message de bienvenue + bannière
+À propos de moi – Petite présentation perso + image illustrée
+Études – Mon parcours scolaire avec logos d'établissements
+Expériences – Mes stages passés, présentés dans des blocs stylés
+Contact – Mail, numéro de téléphone, tout ce qu’il faut pour me joindre
 
 📁 Arborescence
+
 .
 ├── cv.html
 ├── cv.css
@@ -35,14 +38,17 @@ Créer un site vitrine type CV pour :
     └── opensi.jpeg
 
 💡 Bonus
-    Le site est responsive en partie grâce au flexbox
-    Les images de fond donnent une vraie vibe pro
-    L’effet hover sur les mails améliore l’interaction
+
+Le site est responsive en partie grâce au flexbox
+Les images de fond donnent une vraie vibe pro
+L’effet hover sur les mails améliore l’interaction
 
 📬 Me contacter
-    Mail 1 : jean-victor.brun@epitech.eu
-    Mail 2 : brunjeanvictor2007@gmail.com
-    Téléphone : +229 01 67 08 58 76
+
+Mail 1 : jean-victor.brun@epitech.eu
+Mail 2 : brunjeanvictor2007@gmail.com
+Téléphone : +229 01 67 08 58 76
 
 📌 À venir
-    Pourquoi pas une version améliorée en HTML/CSS/JS avec des animations, une version mobile encore plus optimisée ou même un hébergement en ligne (GitHub Pages, Netlify, etc.) ?
+
+Pourquoi pas une version améliorée en HTML/CSS/JS avec des animations, une version mobile encore plus optimisée ou même un hébergement en ligne (GitHub Pages, Netlify, etc.) ?
