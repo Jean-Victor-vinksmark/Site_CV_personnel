@@ -1,7 +1,9 @@
 🌐 CV Web – Jean-Victor BRUN
+
 Bienvenue sur mon CV en ligne, un projet web simple et efficace réalisé uniquement en HTML et CSS. L’objectif ? Présenter mon profil de manière professionnelle et responsive, sans utiliser de JavaScript ni de frameworks.
 
 🚀 Objectif du projet
+
 Créer un site vitrine type CV pour :
     Me présenter de façon claire et esthétique
     Partager mon parcours scolaire et mes expériences
