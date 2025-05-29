@@ -1,0 +1,124 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #002128;
+}
+nav {
+    text-align: center;
+    /*centrer le texte*/
+    font-size: 20px;
+    /* préciser la taille de l'écriture */
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    /* préciser la gestion des espaces entre les mots */
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+nav li {
+    display: inline;
+    /* préciser qu'on veut que les textes soient alignés */
+    list-style: none;
+}
+.image {
+    /* On a mis un . devant image parce que c'est une classe que j'ai déclaré afin de pouvoir agir directement sur l'image */
+    width: 100%;
+    /*préciser que l'image que j'ai utilisé dans le fichier html occupe 100% de la largeur */
+}
+
+.accueil {
+    text-align: center;
+    color: white;
+}
+.parcours {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 55%;
+}
+.parcoursgauche {
+    width: 60%;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.parcoursimage {
+    margin-top: 2%;
+    float: right;
+}
+.etude {
+    background-image: url("images/développer\ au\ coucher\ de\ soleil.jpeg");
+    padding-bottom: 10%;
+}
+.titreetudes {
+    text-align: center;
+    color: wheat;
+}
+.etude h1 {
+    text-align: center;
+}
+.etudeecoles {
+    margin-left: 23%;
+    /* Ça permet de déplacer les 3 blocs blancs vers la droite*/
+}
+.ecole {
+    width: 70%;
+    height: 20%;
+    background-color: white;
+    align-items: center;
+}
+.ecole img {
+    margin-left: 43%;
+    width: 15%;
+    height: 20%;
+}
+.experiences {
+    background-image: url("images/bibliothèque.jpeg");
+    padding-bottom: 10%;
+}
+.titreexperiences {
+    text-align: center;
+    color: wheat;
+}
+.experiences h1 {
+    text-align: center;
+}
+.expcadre {
+    margin-top: 5%;
+    margin-left: 23%;
+    /* Ça permet de déplacer les 3 blocs blancs vers la droite*/
+}
+.exp {
+    width: 70%;
+    height: 20%;
+    background-color: white;
+    align-items: center;
+}
+.exp img {
+    margin-left: 43%;
+    width: 10%;
+    height: 20%;
+}
+.contact {
+    color: white;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+}
+.mail:hover {
+    /*:hover permet de changer l'aspect de l'élément au survol*/
+    color: lightblue;
+    font-weight: bold;
+}
+.mail_2:hover {
+    color: lightblue;
+    font-weight: bold;
+}
